@@ -1,1 +1,1 @@
-print("Hello Worl")
+print("Hello Worl,50+50=",50+50)
